@@ -1,0 +1,32 @@
+# Calculadora de Preços
+
+Esta é uma aplicação simples que permite calcular o preço mínimo para diferentes métodos de pagamento, com base no preço de custo de um produto. Além disso, apresenta a funcionalidade de resetar o formulário para calcular um novo item.
+
+## Funcionalidades
+- Calcula o valor mínimo para pagamento via Pix, dinheiro, débito e crédito (em diversas modalidades).
+- Permite a redefinição do formulário para calcular um novo item.
+
+## Como Usar
+- Insira o preço de custo do produto no campo "Entre com o preço de custo".
+- Clique no botão "Calcular" para obter os valores mínimos de venda para os métodos de pagamento disponíveis.
+- Para calcular um novo item, clique no botão "Calcular Novo Item".
+
+## Contribuindo
+Se deseja contribuir com melhorias ou novas funcionalidades para a Calculadora de Preços, sinta-se à vontade para fazer um fork do projeto e enviar suas sugestões através de pull requests.
+
+---
+# Price Calculator
+
+This is a simple application that allows you to calculate the minimum price for different payment methods based on the cost price of a product. It also includes a functionality to reset the form for calculating a new item.
+
+## Features
+- Calculates the minimum price for payment via Pix, cash, debit, and credit (in various modalities).
+- Allows you to reset the form to calculate a new item.
+
+## How to Use
+- Enter the product's cost price in the "Enter the cost price" field.
+- Click the "Calculate" button to obtain the minimum selling prices for the available payment methods.
+- To calculate a new item, click the "Calculate New Item" button.
+
+## Contributing
+If you would like to contribute improvements or new features to the Price Calculator, feel free to fork the project and submit your suggestions through pull requests.
